@@ -24,7 +24,7 @@ public class MenuController : MonoBehaviour
     {
         if (Display.displays.Length > 1)
         {
-            Display.displays[1].Activate();
+            Display.displays[0].Activate();
         }
         _popups = GameObject.FindGameObjectsWithTag("Popup");
         foreach (GameObject _popup in _popups)
@@ -108,5 +108,10 @@ public class MenuController : MonoBehaviour
         {
             SceneManager.LoadScene(_gameSelected);
         }       
+    }
+
+    public void ResetHighScores()
+    {
+        PlayerPrefs.DeleteAll();
     }
 }
