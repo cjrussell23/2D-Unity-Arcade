@@ -21,7 +21,7 @@ public class PlayerControl : MonoBehaviour {
         Vector2 vel = _rb.velocity;
         if (Input.GetKey(_escape))
         {
-            SceneManager.LoadScene("Menu");
+            SceneManager.LoadScene("Main Menu");
         }
         if (Input.GetKey(_moveUp)) {
             vel.y = _speed;
