@@ -65,6 +65,13 @@ public class MenuController : MonoBehaviour
             "\nSPACE - Shoot" +
             "\nPress escape to go back.";
     }
+    private void Update()
+    {
+        if (Input.GetKeyUp(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+    }
     public void DropdownValueChanged(Dropdown change)
     {
         _audioSource.Play();
