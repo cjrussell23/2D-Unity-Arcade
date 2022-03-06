@@ -22,6 +22,10 @@ public class MenuController : MonoBehaviour
 
     private void Start()
     {
+        if (Display.displays.Length > 1)
+        {
+            Display.displays[1].Activate();
+        }
         _popups = GameObject.FindGameObjectsWithTag("Popup");
         foreach (GameObject _popup in _popups)
         {
