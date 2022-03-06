@@ -1755,8 +1755,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _rules: {fileID: 590711706}
   _image: {fileID: 1747453392}
-  _SoccerPong: {fileID: 21300000, guid: 7031860b36c61e8469885b7031929257, type: 3}
-  _BrickBreaker: {fileID: 21300000, guid: aa4a33b6f56b5e84b9225441de49722b, type: 3}
+  _soccerPong: {fileID: 21300000, guid: 7031860b36c61e8469885b7031929257, type: 3}
+  _brickBreaker: {fileID: 21300000, guid: aa4a33b6f56b5e84b9225441de49722b, type: 3}
+  _foxMan: {fileID: 0}
+  _alienInvasion: {fileID: 21300000, guid: 12fc81242cb91c9449e3e5bc65ea3984, type: 3}
 --- !u!4 &1723454804
 Transform:
   m_ObjectHideFlags: 0
@@ -2185,6 +2187,8 @@ MonoBehaviour:
     - m_Text: Soccer Pong
       m_Image: {fileID: 0}
     - m_Text: Brick Breaker
+      m_Image: {fileID: 0}
+    - m_Text: Alien Invasion
       m_Image: {fileID: 0}
     - m_Text: Platformer
       m_Image: {fileID: 0}

@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Soccer Pong.unity
     guid: 632e25245fe5d5c408f029b160ef011a
+  - enabled: 1
+    path: Assets/Scenes/Alien Invasion.unity
+    guid: 6f766e714ee2c684dbd7843accb8a0b7
   m_configObjects: {}
