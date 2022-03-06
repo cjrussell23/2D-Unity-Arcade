@@ -8,6 +8,17 @@ TagManager:
   - Ball
   - Background
   - Popup
+  - Shot
+  - Alien
+  - AShot
+  - PickUp
+  - CheckPoint
+  - Enemy
+  - Ground
+  - Crate
+  - Obsticle
+  - Wall
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -15,7 +26,7 @@ TagManager:
   - Background
   - Water
   - UI
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -42,6 +53,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Behind
+    uniqueID: 1177469819
+    locked: 0
   - name: Background
     uniqueID: 3051157389
     locked: 0

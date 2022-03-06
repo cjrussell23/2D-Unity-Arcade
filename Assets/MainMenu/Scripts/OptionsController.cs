@@ -8,7 +8,7 @@ public class OptionsController : MonoBehaviour
     [SerializeField] private Slider slider;
     private void Start()
     {
-        slider.value = AudioListener.volume;
+        AudioListener.volume = slider.value;
     }
     public void VolumeSliderChanged(Slider slider)
     {
