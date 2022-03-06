@@ -12,6 +12,7 @@ public class MenuController : MonoBehaviour
     [SerializeField] private Sprite _brickBreaker;
     [SerializeField] private Sprite _foxMan;
     [SerializeField] private Sprite _alienInvasion;
+    [SerializeField] private AudioSource _audioSource;
     private string _gameSelected;
     private string _soccerPongRules;
     private string _brickBreakerRules;
@@ -62,6 +63,7 @@ public class MenuController : MonoBehaviour
     }
     public void DropdownValueChanged(Dropdown change)
     {
+        _audioSource.Play();
         foreach (GameObject _popup in _popups)
         {
             _popup.gameObject.SetActive(true);
