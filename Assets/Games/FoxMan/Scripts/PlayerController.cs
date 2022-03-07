@@ -92,7 +92,7 @@ public class PlayerController : MonoBehaviour
                 else if (!_invulnerable)
                 {
                     _invulnerable = true;
-                    gameObject.layer = 7; // Put on enemy layer, so player passes through enemies
+                    gameObject.layer = 6; // Put on enemy layer, so player passes through enemies
                     _spriteRenderer.color = new Color(1f, 1f, 1f, .5f);
                     _canvas.LoseLife();
                     Invoke(nameof(MakeVulnerable), 2f);
