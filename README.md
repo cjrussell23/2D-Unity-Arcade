@@ -14,7 +14,7 @@ Menu allows for games selection, shows rules, and has a volume slider that chang
 ### Alien Invaders
 ![alieninvaders](https://user-images.githubusercontent.com/81775200/178120998-98dd04d8-955f-4cee-9129-88b43b086767.gif)
 
-### Fox Man
+### Agent Fox
 ![foxman](https://user-images.githubusercontent.com/81775200/178121034-1cd64155-23f3-414c-94f4-389c21f127a6.gif)
 
 ## Sources
