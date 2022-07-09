@@ -2,6 +2,7 @@
 This is a collection of games that I have been working on as I have been learning unity. Some games may be unfinished.
 ## Menu
 ![menu](https://user-images.githubusercontent.com/81775200/178120962-53998ccf-72af-42ae-adb5-12f3202a0879.gif)
+Menu allows for games selection, shows rules, and has a volume slider that changes sound for all games.
 ## Games
 ### Soccer Pong
 ![soccerpong](https://user-images.githubusercontent.com/81775200/178121040-addcbdf6-f959-4cc1-a87c-6620c06d129e.gif)
