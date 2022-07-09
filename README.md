@@ -1,18 +1,18 @@
 # CJ's Arcade
 This is a collection of games that I have been working on as I have been learning unity. Some games may be unfinished.
-# Menu
+## Menu
 ![menu](https://user-images.githubusercontent.com/81775200/178120962-53998ccf-72af-42ae-adb5-12f3202a0879.gif)
-# Games
-## Soccer Pong
+## Games
+### Soccer Pong
 ![soccerpong](https://user-images.githubusercontent.com/81775200/178121040-addcbdf6-f959-4cc1-a87c-6620c06d129e.gif)
 
-## Brick Breaker
+### Brick Breaker
 ![brickbreaker](https://user-images.githubusercontent.com/81775200/178121036-7817e0d3-c35e-42b7-a672-00ef6998bd96.gif)
 
-## Alien Invaders
+### Alien Invaders
 ![alieninvaders](https://user-images.githubusercontent.com/81775200/178120998-98dd04d8-955f-4cee-9129-88b43b086767.gif)
 
-## Fox Man
+### Fox Man
 ![foxman](https://user-images.githubusercontent.com/81775200/178121034-1cd64155-23f3-414c-94f4-389c21f127a6.gif)
 
 ## Sources
