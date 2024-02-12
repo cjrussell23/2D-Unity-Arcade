@@ -11,7 +11,7 @@
     <a href="https://github.com/cjrussell23/2D-Unity-Arcade"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/cjrussell23/2D-Unity-Arcade](https://github.com/cjrussell23/2D-Unity-Arcade/releases/download/v1.0.5/CJ.s.Arcade.v1.0.5.zip)">Download</a>
+    <a href="https://github.com/cjrussell23/2D-Unity-Arcade/releases/download/v1.0.5/CJ.s.Arcade.v1.0.5.zip">Download</a>
     ·
     <a href="https://github.com/cjrussell23/2D-Unity-Arcade/issues">Report Bug</a>
     ·
